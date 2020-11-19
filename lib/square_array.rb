@@ -5,5 +5,5 @@ def square_array(numbers_arr)
     numbers_arr[counter] = x**2 
     counter += 1  
   end
-  return 
+  return numbers_arr
 end
